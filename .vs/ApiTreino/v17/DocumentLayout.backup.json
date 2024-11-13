@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ApiTreino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|e:\\c#\\apitreino\\apitreino\\repositorios\\membrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|solutionrelative:apitreino\\repositorios\\membrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|e:\\c#\\apitreino\\apitreino\\controllers\\membrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|solutionrelative:apitreino\\controllers\\membrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|e:\\c#\\apitreino\\apitreino\\repositorios\\interfaces\\imembrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|solutionrelative:apitreino\\repositorios\\interfaces\\imembrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|e:\\c#\\apitreino\\apitreino\\models\\membromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5676F4CC-C33E-4E2C-878D-5270344D8220}|ApiTreino\\ApiTreino.csproj|solutionrelative:apitreino\\models\\membromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iMembroRepositorio.cs",
+              "DocumentMoniker": "E:\\C#\\ApiTreino\\ApiTreino\\Repositorios\\Interfaces\\iMembroRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiTreino\\Repositorios\\Interfaces\\iMembroRepositorio.cs",
+              "ToolTip": "E:\\C#\\ApiTreino\\ApiTreino\\Repositorios\\Interfaces\\iMembroRepositorio.cs",
+              "RelativeToolTip": "ApiTreino\\Repositorios\\Interfaces\\iMembroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:14:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembroRepositorio.cs",
+              "DocumentMoniker": "E:\\C#\\ApiTreino\\ApiTreino\\Repositorios\\MembroRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiTreino\\Repositorios\\MembroRepositorio.cs",
+              "ToolTip": "E:\\C#\\ApiTreino\\ApiTreino\\Repositorios\\MembroRepositorio.cs",
+              "RelativeToolTip": "ApiTreino\\Repositorios\\MembroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:41:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembroController.cs",
+              "DocumentMoniker": "E:\\C#\\ApiTreino\\ApiTreino\\Controllers\\MembroController.cs",
+              "RelativeDocumentMoniker": "ApiTreino\\Controllers\\MembroController.cs",
+              "ToolTip": "E:\\C#\\ApiTreino\\ApiTreino\\Controllers\\MembroController.cs",
+              "RelativeToolTip": "ApiTreino\\Controllers\\MembroController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:32:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembroModel.cs",
+              "DocumentMoniker": "E:\\C#\\ApiTreino\\ApiTreino\\Models\\MembroModel.cs",
+              "RelativeDocumentMoniker": "ApiTreino\\Models\\MembroModel.cs",
+              "ToolTip": "E:\\C#\\ApiTreino\\ApiTreino\\Models\\MembroModel.cs",
+              "RelativeToolTip": "ApiTreino\\Models\\MembroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:40:31.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
